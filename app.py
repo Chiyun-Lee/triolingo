@@ -49,8 +49,6 @@ metrics = {
     "sum_squared_proportion": sum_squared_proportion
 }
 
-st.title("Triolinguo Character Lookup")
-
 left_space, center, right_space = st.columns([1, 4, 1])
 with center:
     col1, col2, col3 = st.columns([1, 1, 1])
